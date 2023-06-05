@@ -2,7 +2,7 @@
 
 ## Principe du projet
 Afin de récupérer les séquences d'ADN d'espèces de la base de données Genbank, nous avons développé une interface graphique Python affichant l'arbre du vivant des espèces disponibles sous forme d'arborescence de dossiers. 
-L'interface permet de selectionner les espèces en cliquant sur le dossier correspondant.
+L'interface permet de selectionner l'organismes, sous-groupe ou groupe, en cliquant sur le dossier correspondant.
 Ensuite il suffit de lancer la recherche et le parsing des données de Genbank avec le bouton start, ce qui remplira les dossiers choisis avec les fichiers contenants les séquences d'ADN avec le type cochées au préalables (CDS et/ou intron).
 
 Ce projet a été réalisé par :
