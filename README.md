@@ -1,4 +1,4 @@
-# Projet Genbank
+# Projet Genome
 
 ## Principe du projet
 Afin de récupérer les séquences d'ADN d'espèces de la base de données Genbank, nous avons développé une interface graphique Python affichant l'arbre du vivant des espèces disponibles sous forme d'arborescence de dossiers. 
